@@ -7,7 +7,7 @@ import { BASE_URL } from 'utils/request';
 
 type CharData = {
     labels: string[];
-    series: Number[];
+    series: number[];
 }
 
 function DonutChart() {
